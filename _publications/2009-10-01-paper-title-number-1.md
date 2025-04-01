@@ -1,5 +1,5 @@
 ---
-title: "Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, 大修, 2024.4. (CCF-A, JCR一区, Top期刊)"
+title: "CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems. IEEE/ACM Transactions on Networking, 大修, 2024.4"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
