@@ -10,7 +10,7 @@ redirect_from:
 目前为南京林业大学信息科学技术学院、人工智能学院计算机科学与工程系讲师，于 2025 年获东北大学计算机科学与技术博士学位，师从杨雷教授，同年加入该系工作。在博士期间，主要研究边缘计算、任务卸载、资源分配等。累计发表论文 14 篇（其中7 篇以第一作者身份发表于 CCF A 类/中科院一区期刊），部分成果发表于 TMC、TSC、IoTJ等期刊。
 邮箱：gaozhen610351@163.com
 
-### Recent Highlights
+### News 最新动态
 8.	Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **大修**, 2025.4 (JCR一区, CCF-A, Top期刊).
 9.	Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **重新提交**, 2024. (JCR一区, CCF-A, Top期刊).
 10.	Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修**, 2024.4. (CCF-A, JCR一区, Top期刊).
