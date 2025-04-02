@@ -45,6 +45,10 @@ redirect_from:
 2. 2021.12-2024.11, 面向全产业链协同的包装食品产业互联网服务平台研发与应用(课题编号: 2021YFF0901205), 国家重点研发计划, 160.00 万
 
 ### 🍀 期刊审稿
-IEEE Transactions on Mobile Computing, IEEE Internet of Things Journal, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Services Computing, IEEE Transactions on Wireless Communications
+1. IEEE Transactions on Mobile Computing
+2. IEEE Internet of Things Journal
+3. IEEE Transactions on Parallel and Distributed Systems
+4. IEEE Transactions on Services Computing
+5. IEEE Transactions on Wireless Communications
 
 
