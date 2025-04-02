@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "高振"
+title                    : "边缘智能服务研究小组"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
