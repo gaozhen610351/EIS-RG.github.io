@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "研究小组负责人: 高振"
+  name             : "研究小组组长: 高振老师"
   pronouns         : # example: "she/her"  
-  bio              : "座右铭：读书、运动与思考"
+  bio              : "座右铭: 读书、运动与思考"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : "https://gaozhen610351.github.io/EIS-RG.github.io/"
