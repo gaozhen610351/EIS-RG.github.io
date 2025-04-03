@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "南京林业大学边缘智能服务研究小组"
+title                    : "边缘智能服务研究小组"
 title_separator          : "Working Together for Mutual Benefit"
 name                     : &name "Your Name"
 description              : &description "personal description"
