@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "边缘智能服务研究小组"
+title                    : "边缘智能服务研究团队"
 title_separator          : "Working Together for Mutual Benefit"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "小组负责人: 高振"
+  name             : "团队负责人: 高振"
   pronouns         : # example: "she/her"  
   bio              : "星星之火可以燎原"
   location         : "Earth"
