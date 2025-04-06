@@ -45,64 +45,16 @@ redirect_from:
 4. IEEE Transactions on Services Computing
 5. IEEE Transactions on Wireless Communications
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Visit Counter</title>
-  <style>
-    body {
-      background: #111;
-      color: #0f0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      font-family: monospace;
-    }
+<!-- 🌈 带颜色的访问计数器 -->
+<div id="busuanzi_container_page_pv" style="margin-top: 20px; font-size: 16px; font-weight: bold;">
+  <span style="color: #4caf50;">👁️ 本页访问量：</span>
+  <span id="busuanzi_value_page_pv" style="color: #2196f3;"></span>
+  <span style="color: #9c27b0;">次</span>
+</div>
 
-    #counter {
-      display: flex;
-    }
+<!-- 引入 busuanzi JS -->
+<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-    .digit {
-      background-color: black;
-      color: limegreen;
-      font-size: 48px;
-      width: 50px;
-      height: 70px;
-      text-align: center;
-      line-height: 70px;
-      margin: 4px;
-      border-radius: 5px;
-      box-shadow: 0 2px 6px rgba(0, 255, 0, 0.4);
-    }
-  </style>
-</head>
-<body>
-  <div id="counter"></div>
-
-  <script>
-    // 模拟访问计数（实际部署中可从服务器或本地存储读取）
-    let visitCount = localStorage.getItem('visitCount') || 85678;
-    visitCount++;
-
-    // 保存新计数（仅本地）
-    localStorage.setItem('visitCount', visitCount);
-
-    const counter = document.getElementById('counter');
-    const digits = visitCount.toString().padStart(7, '0').split('');
-
-    // 渲染每一个数字
-    digits.forEach(num => {
-      const span = document.createElement('span');
-      span.className = 'digit';
-      span.textContent = num;
-      counter.appendChild(span);
-    });
-  </script>
-</body>
-</html>
 
 
 
