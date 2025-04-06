@@ -45,10 +45,81 @@ redirect_from:
 4. IEEE Transactions on Services Computing
 5. IEEE Transactions on Wireless Communications
 
+<!-- 数字翻牌计数器 -->
+<div id="busuanzi_container_page_pv" class="counter-container">
+  <span class="label">👁️ 浏览量：</span>
+  <span id="busuanzi_value_page_pv" class="flipper"></span>
+</div>
 
-<!-- 页面访问计数器 -->
-<span id="busuanzi_container_page_pv" style="font-size: 14px; color: gray;">
-  本页访问量：<span id="busuanzi_value_page_pv"></span> 次
-</span>
-
+<!-- 引入 busuanzi 计数脚本 -->
 <script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<!-- 样式控制 -->
+<style>
+.counter-container {
+  font-family: 'Courier New', monospace;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.label {
+  font-size: 18px;
+  color: #4CAF50;
+}
+
+.flipper {
+  display: inline-flex;
+}
+
+.flipper::after {
+  content: attr(data-count);
+  display: flex;
+  gap: 2px;
+}
+
+.flipper span {
+  display: inline-block;
+  background: black;
+  color: limegreen;
+  font-size: 24px;
+  width: 24px;
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+  border-radius: 4px;
+}
+</style>
+
+<!-- 访问数字动态生成翻牌数字 -->
+<script>
+function renderFlipper(targetId, value) {
+  const target = document.getElementById(targetId);
+  target.innerHTML = '';
+  const digits = value.toString().padStart(7, '0').split('');
+  digits.forEach(d => {
+    const span = document.createElement('span');
+    span.textContent = d;
+    target.appendChild(span);
+  });
+}
+
+function waitForBusuanzi() {
+  if (typeof busuanzi === 'undefined' || typeof busuanzi.fetch === 'undefined') {
+    setTimeout(waitForBusuanzi, 100);
+    return;
+  }
+
+  new MutationObserver(() => {
+    const pv = document.getElementById('busuanzi_value_page_pv').innerText;
+    renderFlipper('busuanzi_value_page_pv', pv);
+  }).observe(
+    document.getElementById('busuanzi_value_page_pv'),
+    { childList: true }
+  );
+}
+
+waitForBusuanzi();
+</script>
+
+
