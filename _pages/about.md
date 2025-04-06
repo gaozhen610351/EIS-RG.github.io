@@ -45,81 +45,54 @@ redirect_from:
 4. IEEE Transactions on Services Computing
 5. IEEE Transactions on Wireless Communications
 
-<!-- 数字翻牌计数器 -->
-<div id="busuanzi_container_page_pv" class="counter-container">
-  <span class="label">👁️ 浏览量：</span>
-  <span id="busuanzi_value_page_pv" class="flipper"></span>
-</div>
-
-<!-- 引入 busuanzi 计数脚本 -->
-<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<!-- 样式控制 -->
+<!-- 计数器样式 -->
 <style>
-.counter-container {
-  font-family: 'Courier New', monospace;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.label {
-  font-size: 18px;
-  color: #4CAF50;
-}
-
-.flipper {
-  display: inline-flex;
-}
-
-.flipper::after {
-  content: attr(data-count);
-  display: flex;
-  gap: 2px;
-}
-
-.flipper span {
+.counter-box {
   display: inline-block;
-  background: black;
-  color: limegreen;
-  font-size: 24px;
-  width: 24px;
-  height: 36px;
-  line-height: 36px;
-  text-align: center;
-  border-radius: 4px;
+  background-color: black;
+  color: #00FF00;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+  padding: 10px 15px;
+  margin: 2px;
+  border-radius: 5px;
 }
 </style>
 
-<!-- 访问数字动态生成翻牌数字 -->
-<script>
-function renderFlipper(targetId, value) {
-  const target = document.getElementById(targetId);
-  target.innerHTML = '';
-  const digits = value.toString().padStart(7, '0').split('');
-  digits.forEach(d => {
-    const span = document.createElement('span');
-    span.textContent = d;
-    target.appendChild(span);
-  });
-}
+<!-- 容器 -->
+<div id="custom-counter"></div>
 
-function waitForBusuanzi() {
-  if (typeof busuanzi === 'undefined' || typeof busuanzi.fetch === 'undefined') {
-    setTimeout(waitForBusuanzi, 100);
-    return;
+<!-- 动态生成数字 -->
+<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script>
+  function updateCounter(number) {
+    const container = document.getElementById('custom-counter');
+    container.innerHTML = ''; // 清空之前内容
+    const numStr = number.toString().padStart(7, '0'); // 补足7位
+    for (let char of numStr) {
+      const span = document.createElement('span');
+      span.className = 'counter-box';
+      span.textContent = char;
+      container.appendChild(span);
+    }
   }
 
-  new MutationObserver(() => {
-    const pv = document.getElementById('busuanzi_value_page_pv').innerText;
-    renderFlipper('busuanzi_value_page_pv', pv);
-  }).observe(
-    document.getElementById('busuanzi_value_page_pv'),
-    { childList: true }
-  );
-}
-
-waitForBusuanzi();
+  // 监听页面加载完成后更新数字
+  window.onload = function () {
+    // 等 busuanzi 加载完后
+    const check = setInterval(() => {
+      const pv = document.getElementById('busuanzi_value_site_pv');
+      if (pv && pv.innerText !== '') {
+        updateCounter(pv.innerText);
+        clearInterval(check);
+      }
+    }, 500);
+  };
 </script>
+
+<!-- 隐藏 busuanzi 默认显示，用于提取原始数据 -->
+<span id="busuanzi_container_site_pv" style="display:none;">
+  <span id="busuanzi_value_site_pv"></span>
+</span>
 
 
