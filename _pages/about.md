@@ -45,54 +45,31 @@ redirect_from:
 4. IEEE Transactions on Services Computing
 5. IEEE Transactions on Wireless Communications
 
-<!-- 计数器样式 -->
+<div id="counter" style="display: flex; font-family: monospace;">
+  <span class="digit">0</span>
+  <span class="digit">0</span>
+  <span class="digit">8</span>
+  <span class="digit">5</span>
+  <span class="digit">6</span>
+  <span class="digit">7</span>
+  <span class="digit">8</span>
+</div>
+
 <style>
-.counter-box {
-  display: inline-block;
+.digit {
   background-color: black;
-  color: #00FF00;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 40px;
-  padding: 10px 15px;
+  color: limegreen;
+  font-size: 32px;
+  width: 40px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
   margin: 2px;
-  border-radius: 5px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  font-weight: bold;
 }
 </style>
 
-<!-- 容器 -->
-<div id="custom-counter"></div>
-
-<!-- 动态生成数字 -->
-<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<script>
-  function updateCounter(number) {
-    const container = document.getElementById('custom-counter');
-    container.innerHTML = ''; // 清空之前内容
-    const numStr = number.toString().padStart(7, '0'); // 补足7位
-    for (let char of numStr) {
-      const span = document.createElement('span');
-      span.className = 'counter-box';
-      span.textContent = char;
-      container.appendChild(span);
-    }
-  }
-
-  // 监听页面加载完成后更新数字
-  window.onload = function () {
-    // 等 busuanzi 加载完后
-    const check = setInterval(() => {
-      const pv = document.getElementById('busuanzi_value_site_pv');
-      if (pv && pv.innerText !== '') {
-        updateCounter(pv.innerText);
-        clearInterval(check);
-      }
-    }, 500);
-  };
-</script>
-
-<!-- 隐藏 busuanzi 默认显示，用于提取原始数据 -->
-<span id="busuanzi_container_site_pv" style="display:none;">
-  <span id="busuanzi_value_site_pv"></span>
-</span>
 
 
