@@ -54,11 +54,11 @@ redirect_from:
     body {
       background: #111;
       color: #0f0;
-      font-family: monospace;
       display: flex;
-      align-items: center;
       justify-content: center;
+      align-items: center;
       height: 100vh;
+      font-family: monospace;
     }
 
     #counter {
@@ -80,43 +80,27 @@ redirect_from:
   </style>
 </head>
 <body>
-
   <div id="counter"></div>
 
-  <!-- Busuanzi统计脚本 -->
-  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
   <script>
-    function renderCounter(count) {
-      const counter = document.getElementById('counter');
-      counter.innerHTML = '';
-      const digits = count.toString().padStart(7, '0').split('');
-      digits.forEach(d => {
-        const span = document.createElement('span');
-        span.className = 'digit';
-        span.textContent = d;
-        counter.appendChild(span);
-      });
-    }
+    // 模拟访问计数（实际部署中可从服务器或本地存储读取）
+    let visitCount = localStorage.getItem('visitCount') || 85678;
+    visitCount++;
 
-    // 监听 Busuanzi 统计数据加载完成
-    document.addEventListener('DOMContentLoaded', function () {
-      const checkInterval = setInterval(() => {
-        const countEl = document.querySelector('[id^="busuanzi_value_site_pv"]');
-        if (countEl && countEl.innerText) {
-          const pv = parseInt(countEl.innerText.replace(/\D/g, ''), 10);
-          if (!isNaN(pv)) {
-            renderCounter(pv);
-            clearInterval(checkInterval);
-          }
-        }
-      }, 300);
+    // 保存新计数（仅本地）
+    localStorage.setItem('visitCount', visitCount);
+
+    const counter = document.getElementById('counter');
+    const digits = visitCount.toString().padStart(7, '0').split('');
+
+    // 渲染每一个数字
+    digits.forEach(num => {
+      const span = document.createElement('span');
+      span.className = 'digit';
+      span.textContent = num;
+      counter.appendChild(span);
     });
   </script>
-
-  <!-- 隐藏的 Busuanzi 页面访问数元素 -->
-  <span id="busuanzi_value_site_pv" style="display:none"></span>
-
 </body>
 </html>
 
