@@ -45,31 +45,80 @@ redirect_from:
 4. IEEE Transactions on Services Computing
 5. IEEE Transactions on Wireless Communications
 
-<div id="counter" style="display: flex; font-family: monospace;">
-  <span class="digit">0</span>
-  <span class="digit">0</span>
-  <span class="digit">8</span>
-  <span class="digit">5</span>
-  <span class="digit">6</span>
-  <span class="digit">7</span>
-  <span class="digit">8</span>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Visit Counter</title>
+  <style>
+    body {
+      background: #111;
+      color: #0f0;
+      font-family: monospace;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
 
-<style>
-.digit {
-  background-color: black;
-  color: limegreen;
-  font-size: 32px;
-  width: 40px;
-  height: 50px;
-  text-align: center;
-  line-height: 50px;
-  margin: 2px;
-  border-radius: 4px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.5);
-  font-weight: bold;
-}
-</style>
+    #counter {
+      display: flex;
+    }
+
+    .digit {
+      background-color: black;
+      color: limegreen;
+      font-size: 48px;
+      width: 50px;
+      height: 70px;
+      text-align: center;
+      line-height: 70px;
+      margin: 4px;
+      border-radius: 5px;
+      box-shadow: 0 2px 6px rgba(0, 255, 0, 0.4);
+    }
+  </style>
+</head>
+<body>
+
+  <div id="counter"></div>
+
+  <!-- Busuanzi统计脚本 -->
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  <script>
+    function renderCounter(count) {
+      const counter = document.getElementById('counter');
+      counter.innerHTML = '';
+      const digits = count.toString().padStart(7, '0').split('');
+      digits.forEach(d => {
+        const span = document.createElement('span');
+        span.className = 'digit';
+        span.textContent = d;
+        counter.appendChild(span);
+      });
+    }
+
+    // 监听 Busuanzi 统计数据加载完成
+    document.addEventListener('DOMContentLoaded', function () {
+      const checkInterval = setInterval(() => {
+        const countEl = document.querySelector('[id^="busuanzi_value_site_pv"]');
+        if (countEl && countEl.innerText) {
+          const pv = parseInt(countEl.innerText.replace(/\D/g, ''), 10);
+          if (!isNaN(pv)) {
+            renderCounter(pv);
+            clearInterval(checkInterval);
+          }
+        }
+      }, 300);
+    });
+  </script>
+
+  <!-- 隐藏的 Busuanzi 页面访问数元素 -->
+  <span id="busuanzi_value_site_pv" style="display:none"></span>
+
+</body>
+</html>
 
 
 
