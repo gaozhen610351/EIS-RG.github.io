@@ -17,8 +17,8 @@ redirect_from:
 大家好！我叫高振，目前为南京林业大学信息科学技术学院、人工智能学院计算机科学与工程系讲师（校聘副教授，F类人才引进）。我于2025年获东北大学计算机科学与技术博士学位，师从杨雷教授，同年加入南京林业大学工作。主要研究方向包括物联网, 移动边缘计算, 计算卸载, 无线网络资源分配, 无人机路径规划, 服务迁移, 群智感知, 深度强化学习等。我的研究成果发表在TMC、TSC、IoTJ等期刊上，累计发表论文 14 篇（其中7 篇以第一作者身份发表于 CCF A 类/JCR一区期刊）。
 
 ### 🔥 News 最新动态
-8.	Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **大修**, 2025.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉
-9.	Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **重新提交**, 2024.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉
+8.	Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉
+9.	Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **重新提交，正在修改**, 2024.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉
 10.	Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修**, 2024.4 (**CCF-A**, JCR一区, Top期刊).🎉🎉
 11.	Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, 在审, 2025. (JCR一区, **CCF-A**, Top期刊).
 
