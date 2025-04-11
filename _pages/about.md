@@ -25,7 +25,6 @@ redirect_from:
 
 ### 📝 已发表论文
 1、Gao Zhen, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing, 2023.6. (JCR一区, **CCF-A**, Top期刊). <br />
-1、Gao Zhen, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing, 2023.6. (JCR一区, **CCF-A**, Top期刊). <br />
 2、Gao Zhen, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation in Large-Scale MEC Systems via Multi-Agent Graph Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
 3、Gao Zhen, Yang Lei, Dai Y. MO-AVC: Deep Reinforcement Learning Based Trajectory Control and Task Offloading in Multi-UAV enabled MEC Systems [J]. IEEE Internet of Things Journal, 2024.4. (JCR一区, Top期刊). <br />
 4、Gao Zhen, J Fu, Z Jing, Y Dai, Lei Yang. MOIPC-MAAC: Communication-Assisted Multi-Objective MARL for Trajectory Planning and Task Offloading in Multi-UAV Assisted MEC [J]. IEEE Internet of Things Journal, 2024.5. (JCR一区, Top期刊). <br />
