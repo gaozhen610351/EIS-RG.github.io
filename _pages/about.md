@@ -21,7 +21,7 @@ redirect_from:
 8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉 <br />
 9、Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **重新提交，正在修改**, 2024.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉 <br />
 10、Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修**, 2024.4 (**CCF-A**, JCR一区, Top期刊).🎉🎉 <br />
-11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, 在审, 2025. (JCR一区, **CCF-A**, Top期刊). 🎉🎉 <br />
+11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, 在审, 2025. (JCR一区, **CCF-A**, Top期刊). <br />
 
 ### 📝 已发表论文
 1、Gao Zhen, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing, 2023.6. (JCR一区, **CCF-A**, Top期刊). <br />
