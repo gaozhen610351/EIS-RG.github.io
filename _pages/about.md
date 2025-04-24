@@ -24,6 +24,7 @@ redirect_from:
 11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, 在审, 2025. (JCR一区, **CCF-A**, Top期刊). <br />
 
 ### 📝 已发表论文
+博士期间（2020.9～2025.1，四年半）完成11篇一作论文（编号1～11）投稿，其中7篇被接受（TMC(1篇)，TSC(1篇)，IoTJ(5篇)），四篇CCF A在审。<br />
 1、Gao Zhen, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing, 2023.6. (JCR一区, **CCF-A**, Top期刊). <br />
 2、Gao Zhen, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation in Large-Scale MEC Systems via Multi-Agent Graph Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
 3、Gao Zhen, Yang Lei, Dai Y. MO-AVC: Deep Reinforcement Learning Based Trajectory Control and Task Offloading in Multi-UAV enabled MEC Systems [J]. IEEE Internet of Things Journal, 2024.4. (JCR一区, Top期刊). <br />
