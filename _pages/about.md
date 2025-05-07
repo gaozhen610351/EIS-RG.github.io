@@ -58,12 +58,19 @@ redirect_from:
 5、IEEE Transactions on Wireless Communications <br />
 
 
+
+
 <!-- 🌈 带颜色的访问计数器 -->
 <div id="busuanzi_container_page_pv" style="margin-top: 20px; font-size: 16px; font-weight: bold;">
-  <span style="color: #4caf50;">👁️ 本页访问量：</span>
+  <span style="color: #4caf50;">👁️本页访问量：</span>
   <span id="busuanzi_value_page_pv" style="color: #2196f3;"></span>
   <span style="color: #9c27b0;">次</span>
 </div>
+
+<!-- 不蒜子脚本 -->
+<script src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
 
 
 
