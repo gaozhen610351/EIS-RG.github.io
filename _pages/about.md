@@ -18,10 +18,14 @@ redirect_from:
 
 ### 🔥 News 最新动态
 
-8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉 <br />
-9、Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2024.1 (JCR一区, **CCF-A**, Top期刊).🎉🎉 <br />
-10、Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修，正在修改**, 2025.4 (**CCF-A**, JCR一区, Top期刊).🎉🎉 <br />
-11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2025. (JCR一区, **CCF-A**, Top期刊). <br />
+8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊). ![image](https://github.com/user-attachments/assets/9b4341ed-78a7-4985-b09e-4fe4d5dbcc94)
+ <br />
+9、Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2024.1 (JCR一区, **CCF-A**, Top期刊). ![image](https://github.com/user-attachments/assets/b069af5f-dd5d-46a5-a4c2-908c8c9d90f7)
+ <br />
+10、Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修，正在修改**, 2025.4 (**CCF-A**, JCR一区, Top期刊).![image](https://github.com/user-attachments/assets/2ea42410-1934-4b3e-be74-620584f50992)
+ <br />
+11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2025. (JCR一区, **CCF-A**, Top期刊). ![image](https://github.com/user-attachments/assets/16a12a79-1dde-4fe9-b2ea-e99afde14647)
+<br />
 
 ### 📝 已发表论文
 博士期间（2020.9～2025.1，四年半）完成11篇一作论文（编号1～11）投稿，其中7篇被接受（TMC(1篇)，TSC(1篇)，IoTJ(5篇)），四篇CCF A在审。<br />
