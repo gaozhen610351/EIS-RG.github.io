@@ -51,12 +51,24 @@ redirect_from:
 
 ### 🍀 期刊审稿
 
-1、IEEE Transactions on Mobile Computing <br />
-2、IEEE Internet of Things Journal <br />
-3、IEEE Transactions on Parallel and Distributed Systems <br />
-4、IEEE Transactions on Services Computing <br />
-5、IEEE Transactions on Wireless Communications <br />
-
+作为一位长期担任高水平期刊审稿工作的研究者，我深谙各类期刊的投稿规范与审稿标准，能够从评审专家的角度对论文进行精准修改与优化。我主笔完成的论文已全部被目标期刊或相关领域的权威期刊正式录用。以下为审稿过的期刊。<br />
+1、IEEE Internet of Things Journal (14 days)<br />
+2、IEEE Transactions on Cognitive Communications and Networking (30 days)<br />
+3、IEEE Transactions on Communications (45 days)<br />
+4、IEEE Transactions on Consumer Electronics (~18 days)<br />
+5、IEEE Transactions on Dependable and Secure Computing (6 weeks)<br />
+6、IEEE Transactions on Green Communications and Networking (30 days)<br />
+7、IEEE Transactions on Information Forensics and Security (4 weeks)<br />
+8、IEEE Transactions on Intelligent Transportation Systems (4 Weeks)<br />
+9、IEEE Transactions on Intelligent Vehicles (12 days)<br />
+10、IEEE Transactions on Knowledge and Data Engineering (4 weeks)<br />
+11、IEEE Transactions on Mobile Computing (4 weeks)<br />
+12、IEEE Transactions on Network Science and Engineering (3 weeks)<br />
+13、IEEE Transactions on Neural Networks and Learning Systems (6 weeks)<br />
+14、IEEE Transactions on Parallel and Distributed Systems (6 weeks)<br />
+15、IEEE Transactions on Vehicular Technology (6 weeks)<br />
+16、IEEE Transactions on Wireless Communications (6 weeks)<br />
+17、IEEE Wireless Communications (30 days)<br />
 
 
 
