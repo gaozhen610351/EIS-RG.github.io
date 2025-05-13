@@ -69,6 +69,7 @@ redirect_from:
 15、IEEE Transactions on Vehicular Technology (6 weeks)<br />
 16、IEEE Transactions on Wireless Communications (6 weeks)<br />
 17、IEEE Wireless Communications (30 days)<br />
+18、IEEE Transactions on Services Computing (4 weeks)<br />
 
 
 
