@@ -6,6 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+### 🔥 <span style="color: #0000FF;">News 最新动态</span>
+
+8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+ <br />
+9、Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2024.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+ <br />
+10、Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修，正在修改**, 2025.4 (**CCF-A**, JCR一区, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+ <br />
+11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2025. (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+<br />
+
 ### 🚀 <span style="color: #0000FF;" size=100>招收具有保研志向的计算机相关专业本科</span> ![avatar](https://shen-hang.github.io//images/new.jpg)
 1、**研究方向**：移动边缘计算, 计算卸载, 资源分配, 无人机路径规划, 服务迁移, 群智感知,机器人路径规划,无限通信,强化学习 <br />
 2、**优秀学子推荐**：课题组和多个国内外科研团队保持合作和联系，可为组内优秀学子提供前往985和国外知名高校读研和读博的升学机会。 <br />
@@ -25,17 +36,6 @@ redirect_from:
 1、**202x级**：虚位以待<br />
 2、**202x级**：虚位以待<br />
 3、**202x级**：虚位以待
-
-### 🔥 <span style="color: #0000FF;">News 最新动态</span>
-
-8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
- <br />
-9、Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2024.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
- <br />
-10、Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修，正在修改**, 2025.4 (**CCF-A**, JCR一区, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
- <br />
-11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2025. (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
-<br />
 
 ### 📝 <span style="color: #0000FF;">已发表论文</span>
 博士期间（2020.9～2025.1，四年半）完成11篇一作论文（编号1～11）投稿，其中7篇被接受（TMC(1篇)，TSC(1篇)，IoTJ(5篇)），四篇CCF A在审。<br />
