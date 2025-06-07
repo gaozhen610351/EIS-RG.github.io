@@ -8,20 +8,20 @@ redirect_from:
 ---
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 
-8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+(8) Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
  <br />
-9、Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2024.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+(9) Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2024.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
  <br />
-10、Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修，正在修改**, 2025.4 (**CCF-A**, JCR一区, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+(10) Gao Zhen, Yang Lei, Dai Y. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE/ACM Transactions on Networking, **大修，正在修改**, 2025.4 (**CCF-A**, JCR一区, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
  <br />
-11、Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2025. (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+(11) Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2025. (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
 <br />
 
 ### 🚀 <span style="color: #8A2BE2;" size=10>**招收具有保研志向的计算机相关专业本科:**</span> ![avatar](https://shen-hang.github.io//images/new.jpg)
-1、**研究方向**：移动边缘计算, 计算卸载, 资源分配, 无人机路径规划, 服务迁移, 群智感知,机器人路径规划,无限通信,强化学习 <br />
-2、**优秀学子推荐**：课题组和多个国内外科研团队保持合作和联系，可为组内优秀学子提供前往985和国外知名高校读研和读博的升学机会。 <br />
-3、 **科研支持**：在博士期间，我指导了多名本科生和研究生，具有丰富的学术指导经验，对于有科研经验的学生可以充分放手;而对于经验不足的学生可以提供手把手科研指导，包括提供靠谱的idea，详细的任务步骤，细致的论文撰写指导，保证学生不会有科研方向摸索的迷茫期。不苛责学生，始终以细致耐心的态度对待每一位学生，尊重其个体意愿与发展选择。不争抢学生第一作者，凡由学生主导的论文和项目，均由学生署名为第一作者。 <br />
-4、**交流合作**：请希望跟随我潜心科研和快乐科研的同学们发送个人陈述和简历到我的邮箱：gaozhen610351@163.com。 <br />
+(1) **研究方向**：移动边缘计算, 计算卸载, 资源分配, 无人机路径规划, 服务迁移, 群智感知,机器人路径规划,无限通信,强化学习 <br />
+(2) **优秀学子推荐**：课题组和多个国内外科研团队保持合作和联系，可为组内优秀学子提供前往985和国外知名高校读研和读博的升学机会。 <br />
+(3) **科研支持**：在博士期间，我指导了多名本科生和研究生，具有丰富的学术指导经验，对于有科研经验的学生可以充分放手;而对于经验不足的学生可以提供手把手科研指导，包括提供靠谱的idea，详细的任务步骤，细致的论文撰写指导，保证学生不会有科研方向摸索的迷茫期。不苛责学生，始终以细致耐心的态度对待每一位学生，尊重其个体意愿与发展选择。不争抢学生第一作者，凡由学生主导的论文和项目，均由学生署名为第一作者。 <br />
+(4) **交流合作**：请希望跟随我潜心科研和快乐科研的同学们发送个人陈述和简历到我的邮箱：gaozhen610351@163.com。 <br />
 
 ### 📖 <span style="color: #8A2BE2;">**课题组介绍:**</span>
 
@@ -33,53 +33,53 @@ redirect_from:
 
 ### 👫 <span style="color: #8A2BE2;" size=10>**课题组成员:**</span>
 
-1、**202x级**：虚位以待<br />
-2、**202x级**：虚位以待<br />
-3、**202x级**：虚位以待
+(1) **202x级**：虚位以待<br />
+(2) **202x级**：虚位以待<br />
+(3) **202x级**：虚位以待
 
 ### 📝 <span style="color: #8A2BE2;" size=10>**已发表论文:**</span>
 博士期间（2020.9～2025.1，四年半）完成11篇一作论文（编号1～11）投稿，其中7篇被接受（TMC(1篇)，TSC(1篇)，IoTJ(5篇)），四篇CCF A在审。<br />
-1、Gao Zhen, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing, 2023.6. (JCR一区, **CCF-A**, Top期刊). <br />
-2、Gao Zhen, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation in Large-Scale MEC Systems via Multi-Agent Graph Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
-3、Gao Zhen, Yang Lei, Dai Y. MO-AVC: Deep Reinforcement Learning Based Trajectory Control and Task Offloading in Multi-UAV enabled MEC Systems [J]. IEEE Internet of Things Journal, 2024.4. (JCR一区, Top期刊). <br />
-4、Gao Zhen, J Fu, Z Jing, Y Dai, Lei Yang. MOIPC-MAAC: Communication-Assisted Multi-Objective MARL for Trajectory Planning and Task Offloading in Multi-UAV Assisted MEC [J]. IEEE Internet of Things Journal, 2024.5. (JCR一区, Top期刊). <br />
-5、Gao Zhen, Yang Lei, Dai Y. VRCCS-AC: Reinforcement Learning for Service Migration in Vehicular Edge Computing Systems [J]. IEEE Transactions on Services Computing, 2024.5. (JCR一区, **CCF-A**, Top期刊). <br />
-6、Gao Zhen, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation via Multi-agent Reinforcement Learning in Heterogeneous Vehicular Fog Computing[J]. IEEE Internet of Things Journal, 2023.4. (JCR一区, Top期刊). <br />
-7、Gao Zhen, Yang Lei, Dai Y. Large-scale Cooperative Task Offloading and Resource Allocation in Heterogeneous MEC Systems via Multi-Agent Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
+(1) Gao Zhen, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing, 2023.6. (JCR一区, **CCF-A**, Top期刊). <br />
+(2) Gao Zhen, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation in Large-Scale MEC Systems via Multi-Agent Graph Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
+(3) Gao Zhen, Yang Lei, Dai Y. MO-AVC: Deep Reinforcement Learning Based Trajectory Control and Task Offloading in Multi-UAV enabled MEC Systems [J]. IEEE Internet of Things Journal, 2024.4. (JCR一区, Top期刊). <br />
+(4) Gao Zhen, J Fu, Z Jing, Y Dai, Lei Yang. MOIPC-MAAC: Communication-Assisted Multi-Objective MARL for Trajectory Planning and Task Offloading in Multi-UAV Assisted MEC [J]. IEEE Internet of Things Journal, 2024.5. (JCR一区, Top期刊). <br />
+(5) Gao Zhen, Yang Lei, Dai Y. VRCCS-AC: Reinforcement Learning for Service Migration in Vehicular Edge Computing Systems [J]. IEEE Transactions on Services Computing, 2024.5. (JCR一区, **CCF-A**, Top期刊). <br />
+(6) Gao Zhen, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation via Multi-agent Reinforcement Learning in Heterogeneous Vehicular Fog Computing[J]. IEEE Internet of Things Journal, 2023.4. (JCR一区, Top期刊). <br />
+(7) Gao Zhen, Yang Lei, Dai Y. Large-scale Cooperative Task Offloading and Resource Allocation in Heterogeneous MEC Systems via Multi-Agent Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
 
 ### ✨ <span style="color: #8A2BE2;" size=10>**发明专利:**</span>
 
-1、高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2023.4. **正在修改** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
-2、周颖, 张柳, 李英会, 杨雷, 代钰, 高振.一种面向用户的基于部分可观测信息的服务迁移决策方法, 公开号: CN117493007A, 2024.2. <br />
-3、李琪, 方爽, 杨雷, 代钰, 高振, 刘禹峤.一种基于偏好驱动的多目标强化学习的车辆路线规划方法, 公开号: CN118195457A, 2024.3. <br />
-4、徐张兴,林千雯,刘旌扬,代钰,杨雷,高振. 基于自动编码器的多无人机路径规划和功率分配方法. 申请号：202411330172.5. <br />
+(1) 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2023.4. **正在修改** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
+(2) 周颖, 张柳, 李英会, 杨雷, 代钰, 高振.一种面向用户的基于部分可观测信息的服务迁移决策方法, 公开号: CN117493007A, 2024.2. <br />
+(3) 李琪, 方爽, 杨雷, 代钰, 高振, 刘禹峤.一种基于偏好驱动的多目标强化学习的车辆路线规划方法, 公开号: CN118195457A, 2024.3. <br />
+(4) 徐张兴,林千雯,刘旌扬,代钰,杨雷,高振. 基于自动编码器的多无人机路径规划和功率分配方法. 申请号：202411330172.5. <br />
 
 ### 🛠 <span style="color: #8A2BE2;" size=10>**参与项目:**</span>
 
-1、2020.10-2023.11, 轨道交通装备运行质量检验监测科技服务技术研发与应用(课题编号: 2019YFB1405402), 国家重点研发计划, 375.00 万 <br />
-2、2021.12-2024.11, 面向全产业链协同的包装食品产业互联网服务平台研发与应用(课题编号: 2021YFF0901205), 国家重点研发计划, 160.00 万 <br />
+(1) 2020.10-2023.11, 轨道交通装备运行质量检验监测科技服务技术研发与应用(课题编号: 2019YFB1405402), 国家重点研发计划, 375.00 万 <br />
+(2) 2021.12-2024.11, 面向全产业链协同的包装食品产业互联网服务平台研发与应用(课题编号: 2021YFF0901205), 国家重点研发计划, 160.00 万 <br />
 
 ### 🍀 <span style="color: #8A2BE2;" size=10>**期刊审稿:**</span>
 
 作为一位长期担任高水平期刊审稿工作的研究者，我深谙各类期刊的投稿规范与审稿标准，能够从评审专家的角度对论文进行精准修改与优化。我主笔完成的论文已全部被目标期刊或相关领域的权威期刊正式录用。以下为审稿过的期刊。<br />
-1、IEEE Internet of Things Journal (14 days)<br />
-2、IEEE Transactions on Cognitive Communications and Networking (30 days)<br />
-3、IEEE Transactions on Communications (45 days)<br />
-4、IEEE Transactions on Consumer Electronics (~18 days)<br />
-5、IEEE Transactions on Dependable and Secure Computing (6 weeks)<br />
-6、IEEE Transactions on Green Communications and Networking (30 days)<br />
-7、IEEE Transactions on Information Forensics and Security (4 weeks)<br />
-8、IEEE Transactions on Intelligent Transportation Systems (4 Weeks)<br />
-9、IEEE Transactions on Intelligent Vehicles (12 days)<br />
-10、IEEE Transactions on Knowledge and Data Engineering (4 weeks)<br />
-11、IEEE Transactions on Mobile Computing (4 weeks)<br />
-12、IEEE Transactions on Network Science and Engineering (3 weeks)<br />
-13、IEEE Transactions on Neural Networks and Learning Systems (6 weeks)<br />
-14、IEEE Transactions on Parallel and Distributed Systems (6 weeks)<br />
-15、IEEE Transactions on Vehicular Technology (6 weeks)<br />
-16、IEEE Transactions on Wireless Communications (6 weeks)<br />
-17、IEEE Wireless Communications (30 days)<br />
-18、IEEE Transactions on Services Computing (4 weeks)<br />
+(1) IEEE Internet of Things Journal (14 days)<br />
+(2) IEEE Transactions on Cognitive Communications and Networking (30 days)<br />
+(3) IEEE Transactions on Communications (45 days)<br />
+(4) IEEE Transactions on Consumer Electronics (~18 days)<br />
+(5) IEEE Transactions on Dependable and Secure Computing (6 weeks)<br />
+(6) IEEE Transactions on Green Communications and Networking (30 days)<br />
+(7) IEEE Transactions on Information Forensics and Security (4 weeks)<br />
+(8) IEEE Transactions on Intelligent Transportation Systems (4 Weeks)<br />
+(9) IEEE Transactions on Intelligent Vehicles (12 days)<br />
+(10) IEEE Transactions on Knowledge and Data Engineering (4 weeks)<br />
+(11) IEEE Transactions on Mobile Computing (4 weeks)<br />
+(12) IEEE Transactions on Network Science and Engineering (3 weeks)<br />
+(13) IEEE Transactions on Neural Networks and Learning Systems (6 weeks)<br />
+(14) IEEE Transactions on Parallel and Distributed Systems (6 weeks)<br />
+(15) IEEE Transactions on Vehicular Technology (6 weeks)<br />
+(16) IEEE Transactions on Wireless Communications (6 weeks)<br />
+(17) IEEE Wireless Communications (30 days)<br />
+(18) IEEE Transactions on Services Computing (4 weeks)<br />
 
 
 
