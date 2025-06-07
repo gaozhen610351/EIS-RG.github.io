@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### 🔥 <span style="color: #8A2BE2;" size=10>**News 最新动态:**</span>
+### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 
 8、Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, **已经提交修改稿**, 2025.1 (JCR一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
  <br />
@@ -85,7 +85,7 @@ redirect_from:
 
 <!-- 🌈 带颜色的访问计数器 -->
 <div id="busuanzi_container_page_pv" style="margin-top: 20px; font-size: 16px; font-weight: bold;">
-  <span style="color: #8A2BE2;" size=10>👁️ **本页访问量:**</span>
+  <span style="color: #8A2BE2;" size=10>👁️ 本页访问量:</span>
   <span id="busuanzi_value_page_pv" style="color: #2196f3;"></span>
   <span style="color: #8A2BE2;">次</span>
 </div>
