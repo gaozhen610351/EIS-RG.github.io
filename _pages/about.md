@@ -17,6 +17,7 @@ redirect_from:
  <br />
 (11) Gao Zhen, Yang Lei, Dai Yu. GRPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing, **在审**, 2024.12.11. (中科院一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
 <br />
+(12) 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2023.4. **正在修改** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 
 ---
 
