@@ -103,7 +103,7 @@ redirect_from:
 (8) IEEE Transactions on Intelligent Transportation Systems (4 Weeks)<br />
 (9) IEEE Transactions on Intelligent Vehicles (12 days)<br />
 (10) IEEE Transactions on Knowledge and Data Engineering (4 weeks)<br />
-(11) IEEE Transactions on Mobile Computing (4 weeks)<br />
+(11) IEEE Transactions on Mobile Computing (一审：2-3月，二审：2月)<br />
 (12) IEEE Transactions on Network Science and Engineering (3 weeks)<br />
 (13) IEEE Transactions on Neural Networks and Learning Systems (6 weeks)<br />
 (14) IEEE Transactions on Parallel and Distributed Systems (6 weeks)<br />
