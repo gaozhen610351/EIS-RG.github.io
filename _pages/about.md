@@ -113,10 +113,7 @@ redirect_from:
 (17) IEEE Wireless Communications (30 days)<br />
 (18) IEEE Transactions on Services Computing (4 weeks)<br />
 
----
-### 🐮 <span style="color: #8A2BE2;" size=10>**国内外相关的大牛课题组:**</span>
 
-1. <a href="https://teacher.nwpu.edu.cn/wangliang.html" title="西北工业大学王亮教授团队">西北工业大学王亮教授团队</a> <br />
 
 
 ---
