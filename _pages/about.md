@@ -84,6 +84,7 @@ redirect_from:
 (4) 徐张兴,林千雯,刘旌扬,代钰,杨雷,高振. 基于自动编码器的多无人机路径规划和功率分配方法. 申请号：202411330172.5. <br />
 
 ---
+
 ### 🛠 <span style="color: #8A2BE2;" size=10>**参与项目:**</span>
 
 (1) 2020.10-2023.11, 轨道交通装备运行质量检验监测科技服务技术研发与应用(课题编号: 2019YFB1405402), 国家重点研发计划, 375.00 万 <br />
@@ -111,6 +112,11 @@ redirect_from:
 (16) IEEE Transactions on Wireless Communications (6 weeks)<br />
 (17) IEEE Wireless Communications (30 days)<br />
 (18) IEEE Transactions on Services Computing (4 weeks)<br />
+
+---
+### 🛠 <span style="color: #8A2BE2;" size=10>**国内外相关课题组:**</span>
+
+1. <a href="https://teacher.nwpu.edu.cn/wangliang.html" title="西北工业大学王亮教授团队">西北工业大学王亮教授团队</a> <br />
 
 
 ---
