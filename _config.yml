@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "课题组负责人: 高振"
+  name             : ""
   pronouns         : # example: "she/her"  
   bio              : "运动，读书与思考"
   location         : "Earth"
