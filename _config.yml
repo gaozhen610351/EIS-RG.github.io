@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : ""
+  name             : "欢迎来到边缘智能服务课题组！"
   pronouns         : # example: "she/her"  
-  bio              : "运动，读书与思考"
+  bio              : "运动，读书与思考。"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : "https://gaozhen610351.github.io/EIS-RG.github.io/"
