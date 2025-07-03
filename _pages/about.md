@@ -9,8 +9,6 @@ redirect_from:
 
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 
-(10) Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, **小修 已经提交修改稿**, 2024.1 (中科院一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
- <br />
 (11) 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2023.4. **正在修改** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 
 ---
@@ -71,6 +69,8 @@ redirect_from:
 (7) Gao Zhen, Yang Lei, Dai Y. Large-scale Cooperative Task Offloading and Resource Allocation in Heterogeneous MEC Systems via Multi-Agent Reinforcement Learning [J]. IEEE Internet of Things Journal, 2024.1. (JCR一区, Top期刊). <br />
 (8) 代钰, 景宗明, 杨雷, & 高振. (2025). 部分可观测环境中基于图强化的任务卸载与资源分配方法. 东北大学学报 (自然科学版), 46(1), 9. (中文核心). <br />
 (9) Gao Zhen, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing, 2025.6 (中科院一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
+ <br />
+ (10) Gao Zhen, Yang Lei, Dai Yu. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing, 2025.7 (中科院一区, **CCF-A**, Top期刊). ![avatar](https://shen-hang.github.io//images/new.jpg)
  <br />
  
 ---
