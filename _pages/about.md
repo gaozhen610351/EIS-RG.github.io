@@ -9,7 +9,7 @@ redirect_from:
 
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 
-(11) CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems, IEEE Transactions on Networking, 2025.6, **已提交大修修改稿** ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+(11) CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems, IEEE Transactions on Networking (CCF A), 2025.6, **已提交大修修改稿.** ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 
 
 ---
