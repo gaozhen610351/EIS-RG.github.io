@@ -9,7 +9,8 @@ redirect_from:
 
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 
-(11) 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2023.4. **正在修改** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
+(11) CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems, IEEE Transactions on Networking, 2025.6, **已提交大修修改稿** ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+
 
 ---
 
@@ -76,7 +77,7 @@ redirect_from:
 ---
 ### ✨ <span style="color: #8A2BE2;" size=10>**发明专利:**</span>
 
-(1) 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2023.4. **正在修改** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
+(1) 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2025.7. **已经修改完毕** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 (2) 周颖, 张柳, 李英会, 杨雷, 代钰, 高振.一种面向用户的基于部分可观测信息的服务迁移决策方法, 公开号: CN117493007A, 2024.2. <br />
 (3) 李琪, 方爽, 杨雷, 代钰, 高振, 刘禹峤.一种基于偏好驱动的多目标强化学习的车辆路线规划方法, 公开号: CN118195457A, 2024.3. <br />
 (4) 徐张兴,林千雯,刘旌扬,代钰,杨雷,高振. 基于自动编码器的多无人机路径规划和功率分配方法. 申请号：202411330172.5. <br />
