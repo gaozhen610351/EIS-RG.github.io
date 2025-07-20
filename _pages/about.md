@@ -27,7 +27,7 @@ redirect_from:
 
 ---
 ### 💁 <span style="color: #8A2BE2;" size=10>**课题组负责人简介:**</span>
-<img src="https://raw.githubusercontent.com/gaozhen610351/EIS-RG.github.io/refs/heads/root/_pages/gao.jpg" alt="高振" title="高振"><br />
+<img src="https://raw.githubusercontent.com/gaozhen610351/EIS-RG.github.io/refs/heads/root/_pages/gao.jpg" alt="高振" title="高振" width="200" height="250"><br />
 **高振**，男，河南商丘人，中共党员。2025年获东北大学计算机科学与技术博士学位（学科评估结果为A类），师从**东北大学计算机学院杨雷教授**，同年加入南京林业大学工作。现为南京林业大学信息科学技术学院、人工智能学院计算机科学与工程系校聘副教授，F类人才引进。<br />
 **研究方向**包括物联网, 移动边缘计算, 计算卸载, 资源分配, 无人机路径规划, 服务迁移, 群智感知, 机器人路径规划, 无线通信, 自动驾驶, 边缘缓存, 微服务部署, 多智能体强化学习等。研究成果发表在TMC(计算机网络三大顶刊之一，CCF A类，中科院一区Top期刊)、TSC(服务计算顶刊，CCF A类，Top期刊)、IoTJ等期刊上，累计发表论文 14 篇（其中7 篇以第一作者身份发表于 CCF A 类/JCR一区期刊）。此外，长期担任计算机网络、无线通信、移动计算、云计算领域顶级期刊TMC，TSC，IoTJ，TWC等审稿人。指导特点主要包括1)时间充足，2) 细致耐心，3) 尊重学生的个人兴趣，4) 因材施教，5) 提供全链条科研支持。对于研究方向，招收计算卸载, 资源分配, 无人机路径规划, 服务迁移, 群智感知, 机器人路径规划等方向的学生。<br />
 **联系方式**：手机 13940242476（微信）；邮箱 gaozhen610351@163.com <br />
