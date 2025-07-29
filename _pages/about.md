@@ -21,7 +21,7 @@ redirect_from:
 ✅ **[4] 交流合作**：<span style="color: #dd0000;" size=10>**名额有限**，</span>请希望跟随我潜心科研和快乐科研的同学及时联系我：gaozhen610351@163.com，手机 13940242476（微信）。 <br />
 
 ---
-### 📖 <span style="color: #8A2BE2;">**课题组介绍:**</span>
+### 📖 <span style="color: #8A2BE2;">**课题组简介:**</span>
 
 **南京林业大学边缘智能服务研究课题组(The Edge Intelligence Service Research Group at Nanjing Forestry University, eIS-NJFU)**长期专注于边缘智能方向的研究，已参与多项国家级及省部级纵向科研课题。在CCF推荐的A类SCI一区高水平期刊上发表论文十五余篇，取得了较为突出的科研成果。课题组与**东北大学计算机学院杨雷教授团队**保持长期紧密合作。在博士期间，协助博士生导师杨教授指导硕士研究生近10人，积累了丰富的人才培养经验，毕业生发展前景良好，部分赴国内外知名高校攻读博士学位，部分加入字节跳动、美团、阿里等企业核心技术团队，发挥了重要作用。我们热忱欢迎对边缘智能、边缘计算等方向感兴趣的本科生和研究生加入团队，共同成长、共创未来！
 
@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-### 👱 <span style="color: #8A2BE2;" size=10>**课题组指导老师:**</span>
+### 👱 <span style="color: #8A2BE2;" size=10>**课题组指导及合作老师:**</span>
 
 [1] **指导老师：南京林业大学 高振老师**<br />
 [2] **论文合作老师：东北大学 杨雷老师**<br />
@@ -48,7 +48,7 @@ redirect_from:
 
 ### 👫 <span style="color: #8A2BE2;" size=10>**课题组学生:**</span>
 
-**1. 合作及协助博士生导师指导:**<br />
+**1. 协助博士生导师指导:**<br />
 [1] **2018级**：完成<br />
 [2] **2019级**：完成<br />
 [3] **2020级**：完成<br />
@@ -58,13 +58,14 @@ redirect_from:
 [7] **2024级**：未完成<br />
 **2. 独立指导:**<br />
 [8] **2025级**：1.一位不愿透露姓名的大佬(准备申请国外phd,研究方向为群智感知,目标期刊TMC) 2.一位不愿透露姓名的大佬(保研,研究方向为无线通信,目标期刊TWC)<br />
-[9] **2026级**：虚位以待<br />
+[9] **2026级**：虚位以待......<br />
+[10] **2026级**：虚位以待......<br />
 
 ---
 
 
 
-### 📝 <span style="color: #8A2BE2;" size=10>**已发表论文:**</span>
+### 📝 <span style="color: #8A2BE2;" size=10>**部分已发表论文:**</span>
 
 [<span style="color: #dd0000;" size=10>TMC'25</span>] **Gao Zhen**, Gang Wang, Yang Lei, Chenhao Ying. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing (**TMC**), 2025. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
 [<span style="color: #dd0000;" size=10>TMC'25</span>] **Gao Zhen**, Gang Wang, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing (**TMC**), 2025. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
@@ -81,6 +82,7 @@ Yu Dai, Jiaming Fu, Zhen Gao, Lei Yang, et al. Research on Joint Optimization of
 代钰, 景宗明, 杨雷, 高振. 部分可观测环境中基于图强化学习的任务卸载与资源分配联合优化方法. 东北大学学报（自然科学版）, 2023.12. 北大核心.<br />
  
 ---
+
 ### ✨ <span style="color: #8A2BE2;" size=10>**发明专利:**</span>
 
 [1] 高振, 刘禹峤, 杨雷, 代钰.一种基于进化的多目标强化学习的车辆路线规划方法, 公开号: CN115907254A, 2025.7. **已经修改完毕** ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
