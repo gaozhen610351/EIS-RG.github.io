@@ -68,20 +68,24 @@ redirect_from:
 
 
 ### 📝 <span style="color: #8A2BE2;" size=10>**部分已发表论文:**</span>
-
+<span style="color: #8A2BE2;" size=10>**2025**</span><br />
 [<span style="color: #dd0000;" size=10>TMC'25</span>] **Gao Zhen**, Gang Wang, Yang Lei, Chenhao Ying. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing (**TMC**), 2025. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
 [<span style="color: #dd0000;" size=10>TMC'25</span>] **Gao Zhen**, Gang Wang, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing (**TMC**), 2025. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
+<span style="color: #8A2BE2;" size=10>**2024**</span><br />
 [<span style="color: #dd0000;" size=10>TSC'24</span>] **Gao Zhen**, Yang Lei, Dai Y. VRCCS-AC: Reinforcement Learning for Service Migration in Vehicular Edge Computing Systems [J]. IEEE Transactions on Services Computing (**TSC**), 2024.5. (JCR一区, **CCF-A**, 服务计算顶刊, 影响因子5.6).<br />
 [<span style="color: #dd0000;" size=10>IoTJ'24</span>] **Gao Zhen**, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation in Large-Scale MEC Systems via Multi-Agent Graph Reinforcement Learning [J]. IEEE Internet of Things Journal (**IoTJ**), 2024.1. (JCR一区,  Top期刊, 影响因子8.9).<br />
 [<span style="color: #dd0000;" size=10>IoTJ'24</span>] **Gao Zhen**, Yang Lei, Dai Y. MO-AVC: Deep Reinforcement Learning Based Trajectory Control and Task Offloading in Multi-UAV enabled MEC Systems [J]. IEEE Internet of Things Journal (**IoTJ**), 2024.4. (JCR一区, Top期刊, 影响因子8.9).<br />
 [<span style="color: #dd0000;" size=10>IoTJ'24</span>] **Gao Zhen**, J Fu, Z Jing, Y Dai, Lei Yang. MOIPC-MAAC: Communication-Assisted Multi-Objective MARL for Trajectory Planning and Task Offloading in Multi-UAV Assisted MEC [J]. IEEE Internet of Things Journal (**IoTJ**), 2024.5. (JCR一区, Top期刊, 影响因子8.9).<br />
 [<span style="color: #dd0000;" size=10>IoTJ'24</span>] **Gao Zhen**, Yang Lei, Dai Y. Large-scale Cooperative Task Offloading and Resource Allocation in Heterogeneous MEC Systems via Multi-Agent Reinforcement Learning [J]. IEEE Internet of Things Journal (**IoTJ**), 2024.1. (JCR一区, Top期刊, 影响因子8.9).<br />
+<span style="color: #8A2BE2;" size=10>**2023**</span><br />
 [<span style="color: #dd0000;" size=10>TMC'23</span>]  **Gao Zhen**, Yang Lei, Dai Y. Large-Scale Computation Offloading Using a Multi-Agent Reinforcement Learning in Heterogeneous Multi-access Edge Computing[J]. IEEE Transactions on Mobile Computing (**TMC**), 2023.6. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
 [<span style="color: #dd0000;" size=10>IoTJ'23</span>] **Gao Zhen**, Yang Lei, Dai Y. Fast Adaptive Task Offloading and Resource Allocation via Multi-agent Reinforcement Learning in Heterogeneous Vehicular Fog Computing[J]. IEEE Internet of Things Journal (**IoTJ**), 2023.4. (JCR一区, Top期刊, 影响因子8.9).<br />
-Dai Y, Xue Q, Gao Zhen, et al. Offloading in Mobile Edge Computing Based on Federated Reinforcement Learning[J]. Wireless Communications and Mobile Computing, 2022.2. (JCR三区, 中科院四区).<br />
 Yu Dai, Jiaming Fu, Zhen Gao, Lei Yang, et al. Research on Joint Optimization of Task Offloading and UAV Trajectory in MEC Considering Communication Cost Based on Safe Reinforcement Learning [J]. Applied Sciences, 2024.3. (JCR二区, 中科院四区).<br />
-代钰, 赵蓉, 郭浩男, 高振, 杨雷. 基于Long-Transformer的轨道交通装备及关键零部件剩余寿命预测. 制造业自动化, 2022.12. 北大核心.<br />
 代钰, 景宗明, 杨雷, 高振. 部分可观测环境中基于图强化学习的任务卸载与资源分配联合优化方法. 东北大学学报（自然科学版）, 2023.12. 北大核心.<br />
+<span style="color: #8A2BE2;" size=10>**2022**</span><br />
+Dai Y, Xue Q, Gao Zhen, et al. Offloading in Mobile Edge Computing Based on Federated Reinforcement Learning[J]. Wireless Communications and Mobile Computing, 2022.2. (JCR三区, 中科院四区).<br />
+代钰, 赵蓉, 郭浩男, 高振, 杨雷. 基于Long-Transformer的轨道交通装备及关键零部件剩余寿命预测. 制造业自动化, 2022.12. 北大核心.<br />
+
  
 ---
 
