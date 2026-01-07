@@ -33,7 +33,7 @@ redirect_from:
 
 ---
 
-### 💁 <span style="color: #8A2BE2;" size=10>**课题组负责人简介:**</span>
+### 💁 <span style="color: #8A2BE2;" size=10>**课题组老师简介:**</span>
 <img src="https://raw.githubusercontent.com/gaozhen610351/EIS-RG.github.io/refs/heads/root/_pages/gao.jpg" alt="高振" title="高振" width="200" height="250" style="display: block; margin: auto;">
 
 <div align="justify">
