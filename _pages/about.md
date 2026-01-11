@@ -82,7 +82,7 @@ redirect_from:
 
 ### 📝 <span style="color: #8A2BE2;" size=10>**部分已发表论文:**</span>
 <span style="color: #8A2BE2;" size=10>**2025**</span><br />
-<span style="color: #dd0000;" size=10>(12/2025)</span>[<span style="color: #dd0000;" size=10>(1/2026) ToN'25</span>] **Gao Zhen**, Qipeng Xie, Lei Yang, Yu Dai, Weizheng Wang. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE Transactions on Networking (**ToN**), 2025. (**CCF-A**, Top期刊, 计算机网络三大顶刊之一).<br />
+<span style="color: #dd0000;" size=10>(12/2025)</span>[<span style="color: #dd0000;" size=10>ToN'25</span>] **Gao Zhen**, Qipeng Xie, Lei Yang, Yu Dai, Weizheng Wang. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE Transactions on Networking (**ToN**), 2025. (**CCF-A**, Top期刊, 计算机网络三大顶刊之一).<br />
 <span style="color: #dd0000;" size=10>(7/2025)</span>[<span style="color: #dd0000;" size=10>TMC'25</span>] **Gao Zhen**, Gang Wang, Yang Lei, Chenhao Ying. Multi-UAV Navigation for Collision-Constrained Partially Observable Communication Coverage by Communication-assisted Safe MARL [J]. IEEE Transactions on Mobile Computing (**TMC**), 2025. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
 <span style="color: #dd0000;" size=10>(7/2025)</span>[<span style="color: #dd0000;" size=10>TMC'25</span>] **Gao Zhen**, Gang Wang, Yang Lei, Dai Y. Transfer Learning for Joint Trajectory Control and Task Offloading in Large-scale Partially Observable UAV-Assisted MEC [J]. IEEE Transactions on Mobile Computing (**TMC**), 2025. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
 <span style="color: #8A2BE2;" size=10>**2024**</span><br />
