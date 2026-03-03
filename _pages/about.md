@@ -11,7 +11,7 @@ redirect_from:
 
 
 [1] GSPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.1.3, **一审, 已返修**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
-[2] MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems, IEEE Internet of Things Journal (中科院二区), 2026.2.23 提交, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+[2] MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems, IEEE Internet of Things Journal (中科院二区), 2026.2.23 提交, **本科生一作**, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 
 ---
 
