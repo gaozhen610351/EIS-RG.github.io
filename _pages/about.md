@@ -9,10 +9,10 @@ redirect_from:
 
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 **专注投稿:** <br />
-[1] Nature子刊：Nature Machine Intelligence, Nature Communications
-[2] CCF-A会议：SIGCOMM, MobiCom, INFOCOM, NSDI
-[3] CCF-B会议：ICDCS
-[3] CCF-A期刊：JSAC, TMC, TON,  TSC, TPDS, TC, TPDS
+[1] Nature子刊：Nature Machine Intelligence, Nature Communications<br />
+[2] CCF-A会议：SIGCOMM, MobiCom, INFOCOM, NSDI<br />
+[3] CCF-B会议：ICDCS<br />
+[3] CCF-A期刊：JSAC, TMC, TON,  TSC, TPDS, TC, TPDS<br />
 [4] CCF-B期刊：TWC, TCOM, TCC<br />
 **在审论文:** <br />
 [1] GSPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.1.3, **一审, 已返修**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
