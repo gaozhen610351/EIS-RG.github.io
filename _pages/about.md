@@ -21,6 +21,7 @@ redirect_from:
 [4] Improving QoI for UAV-Assisted Mobile Crowdsensing by Prediction-Aware Collaborative Multi-Agent Graph Reinforcement Learning, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2025.10.6, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 [5] SKTAQ: Secure Continuous Spatial Keyword Queries in Fog-Cloud Computing Environments, IEEE Transactions on Cloud Computing (中科院一区),**在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 [6] GraphFlow: Exponential Graph-Based RL for Joint Task Placement and Resource Allocation in Partially Observable MEC Systems, IEEE Internet of Things Journal (中科院二区), 2026.3.23 提交, **本科生一作**, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+[7] Communication-assisted Offline Meta Multi-Agent Reinforcement Learning for Task Offloading in Partially Observable VEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.4.1, 在审. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 
 ---
 
