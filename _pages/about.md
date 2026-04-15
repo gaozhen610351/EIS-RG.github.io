@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
-✅**专注投稿期刊和会议:** <br />
+✅**1.边缘智能期刊和会议:** <br />
 [1] Nature子刊：Nature Machine Intelligence, Nature Communications<br />
 [2] CCF-A会议：SIGCOMM, MobiCom, INFOCOM, NSDI<br />
 [3] CCF-B会议：ICDCS<br />
 [3] CCF-A期刊：JSAC, TMC, TON,  TSC, TPDS, TC, TPDS<br />
 [4] CCF-B期刊：TWC, TCOM, TCC<br />
-✅**进军机器人和无人机期刊和会议:** <br />
+✅**2.进军机器人和无人机期刊和会议:** <br />
 [1] CCF-B会议：ICRA, IROS, RSS<br />
 [2] CCF-B期刊：TRO, TASE<br />
 [3] 瞄准真实企业岗位需求，使学生获得真实技能，例如：微分智飞, https://www.diffrobot.com/。<br />
-✅**进军智慧医疗期刊和会议:** <br />
+✅**3.进军智慧医疗期刊和会议:** <br />
 [1] CCF-A会议：AAAI, CVPR<br />
 [2] CCF-B会议：MICCAI, IJCAI<br />
 [3] CCF-A期刊：TPAMI<br />
