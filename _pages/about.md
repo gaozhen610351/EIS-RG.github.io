@@ -23,7 +23,7 @@ redirect_from:
 [2] CCF-B会议：MICCAI, IJCAI<br />
 [3] CCF-A期刊：TPAMI<br />
 [4] CCF-B期刊：TMI<br />
-胶质瘤医学图像分割和三维重建<br />
+胶质瘤医学图像分割和三维重建，致力于解决企业核心痛点问题的创新研究。<br />
 ✅**4.在审论文:** <br />
 [1] GSPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.1.3, **一审, 已返修**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 [2] MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems, IEEE Internet of Things Journal (中科院二区), 2026.2.23 提交, **学生一作, 本人通讯**, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
