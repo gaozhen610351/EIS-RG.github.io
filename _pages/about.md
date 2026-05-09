@@ -39,7 +39,7 @@ redirect_from:
 [1] Improving QoI for UAV-Assisted Mobile Crowdsensing by Prediction-Aware Collaborative Multi-Agent Graph Reinforcement Learning, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2025.10.6, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 <span style="color: #dd0000;" size=10>(8/2025)</span> <br />
 [1] DAC-MAAC: MARL for User Association and Path Planning in UAV-assisted MEC Systems, IEEE Transactions on Wireless Communications (中科院一区, CCF-B), 2025.8.15提交,**在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
-SKTAQ: Secure Continuous Spatial Keyword Queries in Fog-Cloud Computing Environments, IEEE Transactions on Cloud Computing (中科院一区),**在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+[2] SKTAQ: Secure Continuous Spatial Keyword Queries in Fog-Cloud Computing Environments, IEEE Transactions on Cloud Computing (中科院一区),**在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 
 ---
 
