@@ -25,7 +25,6 @@ redirect_from:
 [4] CCF-B期刊：TMI<br />
 胶质瘤医学图像分割和三维重建，致力于解决企业核心痛点问题的创新研究。<br />
 ✅**4.在审论文:** <br />
-
 <span style="color: #dd0000;" size=10>(4/2026)</span> <br />
 [1] Communication-assisted Offline Meta Multi-Agent Reinforcement Learning for Task Offloading in Partially Observable VEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.4.1, 在审. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 [2] ESCA: FL-enhanced MARL for Cooperative Edge Caching in Partially Observable Network Environments, IEEE Internet of Things Journal (中科院二区), 2026.4.8, 提交, **学生一作, 本人通讯**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
