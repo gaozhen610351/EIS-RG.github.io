@@ -25,18 +25,18 @@ redirect_from:
 [4] CCF-B期刊：TMI<br />
 胶质瘤医学图像分割和三维重建，致力于解决企业核心痛点问题的创新研究。<br />
 ✅**4.在审论文:** <br />
-<span style="color: #dd0000;" size=10>(4/2026)</span> <br />
+<span style="color: #dd0000;" size=10>[4/2026]</span> <br />
 [1] Communication-assisted Offline Meta Multi-Agent Reinforcement Learning for Task Offloading in Partially Observable VEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.4.1, 在审. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
 [2] ESCA: FL-enhanced MARL for Cooperative Edge Caching in Partially Observable Network Environments, IEEE Internet of Things Journal (中科院二区), 2026.4.8, 提交, **学生一作, 本人通讯**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
-<span style="color: #dd0000;" size=10>(3/2026)</span> <br />
+<span style="color: #dd0000;" size=10>[3/2026]</span> <br />
 [1] GraphFlow: Exponential Graph-Based RL for Joint Task Placement and Resource Allocation in Partially Observable MEC Systems, IEEE Internet of Things Journal (中科院二区), 2026.3.23 提交, **学生一作, 本人通讯**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
-<span style="color: #dd0000;" size=10>(2/2026)</span> <br />
+<span style="color: #dd0000;" size=10>[2/2026]</span> <br />
 [1] MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems, IEEE Internet of Things Journal (中科院二区), 2026.2.23 提交, **学生一作, 本人通讯**, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
-<span style="color: #dd0000;" size=10>(1/2026)</span> <br />
+<span style="color: #dd0000;" size=10>[1/2026]</span> <br />
 [1] GSPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.1.3, **一审, 已返修**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
-<span style="color: #dd0000;" size=10>(10/2025)</span> <br />
+<span style="color: #dd0000;" size=10>[10/2025]</span> <br />
 [1] Improving QoI for UAV-Assisted Mobile Crowdsensing by Prediction-Aware Collaborative Multi-Agent Graph Reinforcement Learning, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2025.10.6, **在审**. ![avatar](https://shen-hang.github.io//images/new.jpg) <br />
-<span style="color: #dd0000;" size=10>(8/2025)</span> <br />
+<span style="color: #dd0000;" size=10>[8/2025]</span> <br />
 [1] DAC-MAAC: MARL for User Association and Path Planning in UAV-assisted MEC Systems, IEEE Transactions on Wireless Communications (中科院一区, CCF-B), 2025.8.15提交,**在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 [2] SKTAQ: Secure Continuous Spatial Keyword Queries in Fog-Cloud Computing Environments, IEEE Transactions on Cloud Computing (中科院一区),**在审**. ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 
