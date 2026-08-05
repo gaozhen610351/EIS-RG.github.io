@@ -11,7 +11,7 @@ redirect_from:
 ✅**1.边缘智能期刊和会议:** <br />
 [1] Nature子刊：Nature Machine Intelligence, Nature Communications<br />
 [2] CCF-A会议：SIGCOMM, MobiCom, INFOCOM, NSDI, EuroSys<br />
-[3] CCF-B会议：ICDCS<br />
+[3] CCF-B会议：ICDCS, MobiHoc<br />
 [3] CCF-A期刊：JSAC, TMC, TON,  TSC, TPDS, TC, TPDS<br />
 [4] CCF-B期刊：TWC, TCOM, TCC<br />
 ✅**2.机器人和无人机期刊和会议:** <br />
