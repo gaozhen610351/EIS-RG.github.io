@@ -36,8 +36,6 @@ redirect_from:
 [1] GraphFlow: Exponential Graph-Based RL for Joint Task Placement and Resource Allocation in Partially Observable MEC Systems, IEEE Internet of Things Journal (中科院二区), 2026.3.23 提交, **学生一作**.<br /> 
 <span style="color: #dd0000;" size=10>[**02/2026**]</span> <br />
 [1] MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems, IEEE Internet of Things Journal (中科院二区), 2026.2.23 提交, **学生一作**, **在审**.<br />
-<span style="color: #dd0000;" size=10>[**01/2026**]</span> <br />
-[1] GSPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.1.3, **一审, 已返修**, 2026.07 已经中稿.<br />
 <span style="color: #dd0000;" size=10>[**10/2025**]</span> <br />
 [1] Improving QoI for UAV-Assisted Mobile Crowdsensing by Prediction-Aware Collaborative Multi-Agent Graph Reinforcement Learning, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2025.10.6, **在审**.<br />
 <span style="color: #dd0000;" size=10>[**08/2025**]</span> <br />
