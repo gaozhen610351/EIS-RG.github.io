@@ -25,6 +25,9 @@ redirect_from:
 [4] CCF-B期刊：TMI<br />
 胶质瘤医学图像分割和三维重建，致力于解决企业核心痛点问题的创新研究。<br />
 ✅**4.在审论文:**  ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+<span style="color: #dd0000;" size=10>[**08/2026**]</span> <br />
+[1] Group-Structured Communication and Risk-Aware Safety Representation for UAV Crowdsensing, INFOCOM 2027, 合作论文.<br /> 
+[2] MARAPC: Region AoI-Aware Personalized Discrete Communication and Collaborative Exploration for UAV-Assisted Crowdsensing, INFOCOM 2027, 合作论文.<br /> 
 <span style="color: #dd0000;" size=10>[**06/2026**]</span> <br />
 [1] AGCLS-MAAC: Communication-assisted Scalable Safe MARL for JTPURC in UGV–UAV Cooperative Crowdsensing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.6.28 提交.<br /> 
 <span style="color: #dd0000;" size=10>[**05/2026**]</span> <br />
@@ -84,9 +87,10 @@ redirect_from:
 [4] **论文合作老师：东北大学 王刚博士**<br />
 [5] **论文合作老师：上海交通大学 应臣浩老师**<br />
 [6] **论文合作老师：香港科技大学 谢启鹏博士**<br />
-[7] **论文合作老师：香港理工大学 王惟正博士(<span style="color: #8A2BE2;" size=10>海外优青</span>)**<br />
+[7] **论文合作老师：香港理工大学 王惟正博士**(<span style="color: #8A2BE2;" size=10>**海外优青**</span>)<br />
 [8] **论文合作老师：中国科学院软件研究所 吴长茂老师**<br />
-
+[9] **论文合作老师：东北大学 袁璐博士**<br />
+[10] **论文合作老师：东北大学 向志宇博士**<br />
 ---
 
 
