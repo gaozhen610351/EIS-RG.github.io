@@ -28,6 +28,7 @@ redirect_from:
 <span style="color: #dd0000;" size=10>[**08/2026**]</span> <br />
 [1] Group-Structured Communication and Risk-Aware Safety Representation for UAV Crowdsensing, INFOCOM 2027, 合作论文.<br /> 
 [2] MARAPC: Region AoI-Aware Personalized Discrete Communication and Collaborative Exploration for UAV-Assisted Crowdsensing, INFOCOM 2027, 合作论文.<br /> 
+[3] MAMOAC: Multi-Agent Multi-Objective RL for Joint Microservice Deployment and Request Routing in Partially Observable MEC, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.8.16 提交.<br />
 <span style="color: #dd0000;" size=10>[**06/2026**]</span> <br />
 [1] AGCLS-MAAC: Communication-assisted Scalable Safe MARL for JTPURC in UGV–UAV Cooperative Crowdsensing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.6.28 提交.<br /> 
 <span style="color: #dd0000;" size=10>[**05/2026**]</span> <br />
