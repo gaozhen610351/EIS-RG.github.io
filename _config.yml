@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "边缘智能服务研究课题组"
+title                    : "南京林业大学边缘智能研究小组"
 title_separator          : "Working Together for Mutual Benefit"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "欢迎来到边缘智能服务研究课题组！"
+  name             : "欢迎来到南京林业大学边缘智能研究小组！"
   pronouns         : # example: "she/her"  
   bio              : "运动，读书与思考。"
   location         : "Earth"
