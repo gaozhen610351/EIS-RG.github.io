@@ -97,7 +97,7 @@ redirect_from:
 
 ### 📝 <span style="color: #8A2BE2;" size=10>**部分已发表论文:**</span>
 <span style="color: #8A2BE2;" size=10>**2026**</span><br />
-[<span style="color: #dd0000;" size=10>IoTJ'26</span>] Junjie Li; zhen gao; lei yang; yu dai; He Yan; Shifan Wu. MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems[J]. IEEE Internet of Things Journal (**IoTJ**), 2026.8. (JCR一区, Top期刊, 影响因子8.9).<br />
+<span style="color: #dd0000;" size=10>(08/2026)</span>[<span style="color: #dd0000;" size=10>IoTJ'26</span>] **Junjie** **Li** **(学生一作)**; zhen gao*; lei yang; yu dai; He Yan; Shifan Wu. MetaComm: Multi-Agent Reinforcement Learning Based Trajectory Planning in Multi-UAV Assisted Crowd Sensing Systems[J]. IEEE Internet of Things Journal (**IoTJ**), 2026.8. (JCR一区, Top期刊, 影响因子8.9).<br />
 <span style="color: #dd0000;" size=10>(07/2026)</span>[<span style="color: #dd0000;" size=10>TMC'26</span>] **Gao Zhen**, Changmao Wu, Lei Yang, Yu Dai. GSPM-MAAC: Multi-Agent Reinforcement Learning for Task Offloading in Vehicular Edge Computing Systems [J]. IEEE Transactions on Mobile Computing (**TMC**), 2026. (中科院一区, **CCF-A**, Top期刊, 计算机网络三大顶刊之一, 影响因子9.2).<br />
 <span style="color: #8A2BE2;" size=10>**2025**</span><br />
 <span style="color: #dd0000;" size=10>(12/2025)</span>[<span style="color: #dd0000;" size=10>ToN'25</span>] **Gao Zhen**, Qipeng Xie, Lei Yang, Yu Dai, Weizheng Wang. CPID-MAAC: RL for Joint User Association and Trajectory Control in UAV-assisted MEC Systems [J]. IEEE Transactions on Networking (**ToN**), 2025. (**CCF-A**, Top期刊, 计算机网络三大顶刊之一).<br />
