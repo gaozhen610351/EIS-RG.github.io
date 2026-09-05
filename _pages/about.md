@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 ### 🔥 <span style="color: #8A2BE2;" size=1000>**News 最新动态:**</span>
 ✅**1.边缘智能期刊和会议:** <br />
 [1] Nature子刊：Nature Machine Intelligence, Nature Communications<br />
@@ -44,7 +45,6 @@ redirect_from:
 [1] DAC-MAAC: MARL for User Association and Path Planning in UAV-assisted MEC Systems, IEEE Transactions on Wireless Communications (中科院一区, CCF-B), 2025.8.15提交,**在审**.<br />
 [2] SKTAQ: Secure Continuous Spatial Keyword Queries in Fog-Cloud Computing Environments, IEEE Transactions on Cloud Computing (中科院一区),**在审**.<br />
 
----
 
 ### 🚀 <span style="color: #8A2BE2;" size=10>**诚邀计算机相关专业具有保研意向的本科生加入课题组:**</span> ![avatar](https://shen-hang.github.io//images/new.jpg)
 ✅ **[1] 研究方向**：医学影像智能计算, 图像分割, 大模型边缘智能推理加速, 边缘服务部署, 大小模型协同推理, 无线网络资源分配, 无人机路径规划, 服务迁移, 群智感知, 机器人路径规划, 深度强化学习等 <br />
