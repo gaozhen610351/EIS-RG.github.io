@@ -30,9 +30,7 @@ redirect_from:
 [1] CECSM: Multi-Agent Deep ReinforcementLearning for DNN Inference in PartiallyObservable Dynamic Mobile Edge Computing, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.10.30 提交, **学生一作**.<br />
 [2] ACLG-MAAC: MARL for Joint Model Caching and Request Routing in Partially Observable Dynamic MEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.10.31 提交, **学生一作**.<br />
 <span style="color: #dd0000;" size=10>[**08/2026**]</span> <br />
-[1] Group-Structured Communication and Risk-Aware Safety Representation for UAV Crowdsensing, INFOCOM 2027, 合作论文.<br /> 
-[2] MARAPC: Region AoI-Aware Personalized Discrete Communication and Collaborative Exploration for UAV-Assisted Crowdsensing, INFOCOM 2027, 合作论文.<br /> 
-[3] MAMOAC: Multi-Agent Multi-Objective RL for Joint Microservice Deployment and Request Routing in Partially Observable MEC, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.8.16 提交.<br />
+[1] MAMOAC: Multi-Agent Multi-Objective RL for Joint Microservice Deployment and Request Routing in Partially Observable MEC, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.8.16 提交.<br />
 <span style="color: #dd0000;" size=10>[**06/2026**]</span> <br />
 [1] AGCLS-MAAC: Communication-assisted Scalable Safe MARL for JTPURC in UGV–UAV Cooperative Crowdsensing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.6.28 提交.<br /> 
 <span style="color: #dd0000;" size=10>[**05/2026**]</span> <br />
@@ -46,7 +44,6 @@ redirect_from:
 [1] Improving QoI for UAV-Assisted Mobile Crowdsensing by Prediction-Aware Collaborative Multi-Agent Graph Reinforcement Learning, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2025.10.6, **在审**.<br />
 <span style="color: #dd0000;" size=10>[**08/2025**]</span> <br />
 [1] DAC-MAAC: MARL for User Association and Path Planning in UAV-assisted MEC Systems, IEEE Transactions on Wireless Communications (中科院一区, CCF-B), 2025.8.15提交,**在审**.<br />
-[2] SKTAQ: Secure Continuous Spatial Keyword Queries in Fog-Cloud Computing Environments, IEEE Transactions on Cloud Computing (中科院一区),**在审**.<br />
 
 
 ### 🚀 <span style="color: #8A2BE2;" size=10>**诚邀计算机相关专业具有保研意向的本科生加入课题组:**</span> ![avatar](https://shen-hang.github.io//images/new.jpg)
