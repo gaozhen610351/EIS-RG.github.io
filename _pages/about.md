@@ -28,7 +28,6 @@ redirect_from:
 ✅**4.在审论文:**  ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
 <span style="color: #dd0000;" size=10>[**10/2026**]</span> <br />
 [1] CECSM: Multi-Agent Deep ReinforcementLearning for DNN Inference in PartiallyObservable Dynamic Mobile Edge Computing, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.10.30 提交, **学生一作**.<br />
-[2] ACLG-MAAC: MARL for Joint Model Caching and Request Routing in Partially Observable Dynamic MEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.10.31 提交, **学生一作**.<br />
 <span style="color: #dd0000;" size=10>[**08/2026**]</span> <br />
 [1] MAMOAC: Multi-Agent Multi-Objective RL for Joint Microservice Deployment and Request Routing in Partially Observable MEC, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.8.16 提交.<br />
 <span style="color: #dd0000;" size=10>[**06/2026**]</span> <br />
