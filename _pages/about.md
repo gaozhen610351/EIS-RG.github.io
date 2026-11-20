@@ -31,11 +31,11 @@ redirect_from:
 <span style="color: #dd0000;" size=10>[**08/2026**]</span> <br />
 [1] MAMOAC: Multi-Agent Multi-Objective RL for Joint Microservice Deployment and Request Routing in Partially Observable MEC, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.8.16 提交.<br />
 <span style="color: #dd0000;" size=10>[**06/2026**]</span> <br />
-[1] AGCLS-MAAC: Communication-assisted Scalable Safe MARL for JTPURC in UGV–UAV Cooperative Crowdsensing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.6.28 提交.<br /> 
+[1] AGCLS-MAAC: Communication-assisted Scalable Safe MARL for JTPURC in UGV–UAV Cooperative Crowdsensing Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.6.28 提交 (被拒掉了).<br /> 
 <span style="color: #dd0000;" size=10>[**05/2026**]</span> <br />
 [1] ETSC-MAAC: Exponential Topology-Enabled Scalable Contention-Aware MARL for Joint Task Placement and Resource Allocation in Large-Scale Partially Observable MEC Systems, IEEE Internet of Things Journal (中科院二区), 2026.5.22 提交, **学生一作**.<br /> 
 <span style="color: #dd0000;" size=10>[**04/2026**]</span> <br />
-[1] Communication-assisted Offline Meta Multi-Agent Reinforcement Learning for Task Offloading in Partially Observable VEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.4.1, 在审.<br />
+[1] Communication-assisted Offline Meta Multi-Agent Reinforcement Learning for Task Offloading in Partially Observable VEC Systems, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.4.1, 在审 (被拒掉了).<br />
 [2] ESCA: FL-enhanced MARL for Cooperative Edge Caching in Partially Observable Network Environments, IEEE Internet of Things Journal (中科院二区), 2026.4.8, 提交, **学生一作**. <br />
 <span style="color: #dd0000;" size=10>[**03/2026**]</span> <br />
 [1] GraphFlow: Exponential Graph-Based RL for Joint Task Placement and Resource Allocation in Partially Observable MEC Systems, IEEE Internet of Things Journal (中科院二区), 2026.3.23 提交, **学生一作**.<br /> 
