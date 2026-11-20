@@ -26,6 +26,9 @@ redirect_from:
 [4] CCF-B期刊：TMI<br />
 胶质瘤医学图像分割和三维重建，致力于解决企业核心痛点问题的创新研究。<br />
 ✅**4.在审论文:**  ![avatar](https://shen-hang.github.io//images/new.jpg)<br />
+<span style="color: #dd0000;" size=10>[**11/2026**]</span> <br />
+[1] GCG-MAMAC: Graph Multi-Agent Meta RL for Distributed Dependency-Aware Task Offloading and Service Caching in Cloudlet-Based MEC, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.11.19 提交, **学生一作**.<br />
+[2] Gradient Direction-aware Strain Gaussian Splatting for 4D Endoscopic Deformable Tissue Reconstruction, CVPR (CCF A), 2026.11.17 提交, **学生一作**.<br />
 <span style="color: #dd0000;" size=10>[**10/2026**]</span> <br />
 [1] CECSM: Multi-Agent Deep ReinforcementLearning for DNN Inference in PartiallyObservable Dynamic Mobile Edge Computing, IEEE Transactions on Mobile Computing (TMC) (CCF A, 中科院一区), 2026.10.30 提交, **学生一作**.<br />
 <span style="color: #dd0000;" size=10>[**08/2026**]</span> <br />
